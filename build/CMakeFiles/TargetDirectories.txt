@@ -1,0 +1,9 @@
+C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/hex.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/test_programmer.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/flash.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/fuse.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/disasm.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/clean_avr.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/edit_cache.dir
+C:/MY_REPO/Atmega328p/build/CMakeFiles/rebuild_cache.dir

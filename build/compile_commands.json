@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\main.c.obj -c C:\\MY_REPO\\Atmega328p\\main.c",
+  "file": "C:/MY_REPO/Atmega328p/main.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\croutine.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\croutine.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/croutine.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/croutine.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\event_groups.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\event_groups.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/event_groups.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/event_groups.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\list.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\list.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/list.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/list.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\queue.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\queue.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/queue.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/queue.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\tasks.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\tasks.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/tasks.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/tasks.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\timers.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\timers.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/timers.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/timers.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Drivers\\led.c.obj -c C:\\MY_REPO\\Atmega328p\\Drivers\\led.c",
+  "file": "C:/MY_REPO/Atmega328p/Drivers/led.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Drivers/led.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\portable\\GCC\\ATMega328\\port.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\portable\\GCC\\ATMega328\\port.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328/port.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/portable/GCC/ATMega328/port.c.obj"
+},
+{
+  "directory": "C:/MY_REPO/Atmega328p/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\avr-gcc.exe -DF_CPU=8000000 -IC:/MY_REPO/Atmega328p/Source -IC:/MY_REPO/Atmega328p/Drivers -IC:/MY_REPO/Atmega328p/Source/include -IC:/MY_REPO/Atmega328p/Source/portable -IC:/MY_REPO/Atmega328p/Source/portable/GCC/ATMega328 -IC:/MY_REPO/Atmega328p/Source/portable/MemMang -Wall -Os -mmcu=atmega328 -o CMakeFiles\\main.dir\\Source\\portable\\MemMang\\heap_1.c.obj -c C:\\MY_REPO\\Atmega328p\\Source\\portable\\MemMang\\heap_1.c",
+  "file": "C:/MY_REPO/Atmega328p/Source/portable/MemMang/heap_1.c",
+  "output": "C:/MY_REPO/Atmega328p/build/CMakeFiles/main.dir/Source/portable/MemMang/heap_1.c.obj"
+}
+]

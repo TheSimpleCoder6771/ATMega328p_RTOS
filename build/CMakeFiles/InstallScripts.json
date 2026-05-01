@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MY_REPO/Atmega328p/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
